@@ -54,6 +54,36 @@ Scripts and controls focused on detecting inconsistencies and improving ERP data
 
 The goal of this portfolio is to demonstrate practical automation, ERP validation and business process optimization capabilities applied to real operational environments.
 
+## Technologies Used
+---
+
+## Project Structure
+
+```text
+outlook-invoice-automation/
+│
+├── README.md
+├── requirements.txt
+├── main.py
+├── .gitignore
+│
+├── output_invoices/
+├── logs/
+└── reports/
+```
+
+---
+
+## Workflow
+
+1. Connect to Outlook mailbox
+2. Scan emails using business filters
+3. Extract PDF invoice attachments
+4. Detect duplicate documents
+5. Organize files automatically
+6. Generate logs and validation outputs
+7. Improve operational traceability
+
 ---
 
 ## Disclaimer
