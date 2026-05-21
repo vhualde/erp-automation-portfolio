@@ -84,6 +84,42 @@ outlook-invoice-automation/
 6. Generate logs and validation outputs
 7. Improve operational traceability
 
+
+---
+
+# Portfolio Projects
+
+## 1. Outlook Invoice Automation
+
+Business-oriented automation workflow for processing supplier invoices received through Outlook mailboxes.
+
+### Main Features
+- Outlook mailbox automation
+- PDF extraction
+- Duplicate detection
+- OCR support
+- Automated classification
+- Logging and traceability
+
+### Technologies
+Python · Outlook COM · pandas · OCR · PDF Processing
+
+---
+
+## 2. NAV → SAP Validation Toolkit
+
+ERP migration validation and reconciliation toolkit designed for enterprise transformation projects.
+
+### Main Features
+- Financial reconciliation
+- Mapping validation
+- Duplicate detection
+- Data quality controls
+- Migration traceability
+- Validation workflows
+
+### Technologies
+SQL Server · Python · pandas · SAP S/4HANA · Microsoft Dynamics NAV
 ---
 
 ## Disclaimer
