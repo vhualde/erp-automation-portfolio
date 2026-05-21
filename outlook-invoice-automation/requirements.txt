@@ -1,0 +1,9 @@
+pandas
+pdfplumber
+pytesseract
+pdf2image
+PyMuPDF
+openpyxl
+pywin32
+numpy
+Pillow
